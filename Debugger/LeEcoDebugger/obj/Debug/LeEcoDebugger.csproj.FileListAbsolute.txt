@@ -1,0 +1,13 @@
+C:\Users\zhujun.wang\Documents\Visual Studio 2015\Projects\LeEcoDebugger\LeEcoDebugger\bin\Debug\LeEcoDebugger.exe.config
+C:\Users\zhujun.wang\Documents\Visual Studio 2015\Projects\LeEcoDebugger\LeEcoDebugger\bin\Debug\LeEcoDebugger.exe
+C:\Users\zhujun.wang\Documents\Visual Studio 2015\Projects\LeEcoDebugger\LeEcoDebugger\bin\Debug\LeEcoDebugger.pdb
+C:\Users\zhujun.wang\Documents\Visual Studio 2015\Projects\LeEcoDebugger\LeEcoDebugger\bin\Debug\t32api.dll
+C:\Users\zhujun.wang\Documents\Visual Studio 2015\Projects\LeEcoDebugger\LeEcoDebugger\bin\Debug\t32apinet_x64.dll
+C:\Users\zhujun.wang\Documents\Visual Studio 2015\Projects\LeEcoDebugger\LeEcoDebugger\obj\Debug\LeEcoDebugger.Form1.resources
+C:\Users\zhujun.wang\Documents\Visual Studio 2015\Projects\LeEcoDebugger\LeEcoDebugger\obj\Debug\LeEcoDebugger.Properties.Resources.resources
+C:\Users\zhujun.wang\Documents\Visual Studio 2015\Projects\LeEcoDebugger\LeEcoDebugger\obj\Debug\LeEcoDebugger.csproj.GenerateResource.Cache
+C:\Users\zhujun.wang\Documents\Visual Studio 2015\Projects\LeEcoDebugger\LeEcoDebugger\obj\Debug\LeEcoDebugger.exe
+C:\Users\zhujun.wang\Documents\Visual Studio 2015\Projects\LeEcoDebugger\LeEcoDebugger\obj\Debug\LeEcoDebugger.pdb
+C:\Users\zhujun.wang\Documents\Visual Studio 2015\Projects\LeEcoDebugger\LeEcoDebugger\obj\Debug\LeEcoDebugger.csprojResolveAssemblyReference.cache
+C:\Users\zhujun.wang\documents\visual studio 2015\Projects\LeEcoDebugger\LeEcoDebugger\bin\Debug\config\qurt_model.men
+C:\Users\zhujun.wang\documents\visual studio 2015\Projects\LeEcoDebugger\LeEcoDebugger\bin\Debug\config\qurt_model.t32
